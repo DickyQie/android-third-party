@@ -165,19 +165,5 @@ int</span></strong> <em><span style="color:#0000C0">SDK_CHECK_FLAG</span></em> =
 <p>&nbsp;&nbsp;&nbsp; <span style="color:teal">&lt;/</span><span style="color:#3F7F7F">application</span><span style="color:teal">&gt;</span></p>
 <p><span style="font-size:18px"><br>
 </span></p>
-<p><span style="font-size:18px">封装工具类代码代码太多未给出，直接下载即可。</span></p>
-<p><span style="font-size:18px"><a target="_blank" href="http://download.csdn.net/detail/dickyqie/9650564"><br>
-</a></span></p>
-<p><span style="font-size:18px"><span style="color:#ff0000"><a target="_blank" href="http://download.csdn.net/detail/dickyqie/9650564">http://download.csdn.net/detail/dickyqie/9650564</a></span><br>
-</span></p>
-<p><br>
-</p>
-<p><span style="white-space:pre"></span></p>
-<p><br>
-</p>
-<br>
-<p><span style="font-size:18px"><br>
-</span></p>
-<p class="reader-word-layer reader-word-s1-2" style=""></p>
-   
+<p><span style="font-size:18px">封装工具类代码代码太多未给出，直接下载即可。</span></p>   
 </div>
